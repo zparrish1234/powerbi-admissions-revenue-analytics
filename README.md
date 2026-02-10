@@ -1,1 +1,1 @@
-# admissions-revenue-analytics-powerbi
+# powerbi-admissions-revenue-analytics
